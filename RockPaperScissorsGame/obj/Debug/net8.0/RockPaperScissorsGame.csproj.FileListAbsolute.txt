@@ -1,0 +1,14 @@
+E:\projects\RockPaperScissorsGame\bin\Debug\net8.0\RockPaperScissorsGame.exe
+E:\projects\RockPaperScissorsGame\bin\Debug\net8.0\RockPaperScissorsGame.deps.json
+E:\projects\RockPaperScissorsGame\bin\Debug\net8.0\RockPaperScissorsGame.runtimeconfig.json
+E:\projects\RockPaperScissorsGame\bin\Debug\net8.0\RockPaperScissorsGame.dll
+E:\projects\RockPaperScissorsGame\bin\Debug\net8.0\RockPaperScissorsGame.pdb
+E:\projects\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\projects\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.AssemblyInfoInputs.cache
+E:\projects\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.AssemblyInfo.cs
+E:\projects\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.csproj.CoreCompileInputs.cache
+E:\projects\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.dll
+E:\projects\RockPaperScissorsGame\obj\Debug\net8.0\refint\RockPaperScissorsGame.dll
+E:\projects\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.pdb
+E:\projects\RockPaperScissorsGame\obj\Debug\net8.0\RockPaperScissorsGame.genruntimeconfig.cache
+E:\projects\RockPaperScissorsGame\obj\Debug\net8.0\ref\RockPaperScissorsGame.dll
